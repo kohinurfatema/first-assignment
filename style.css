@@ -70,3 +70,50 @@ nav ul a{
     height: 328px;
     border-radius: 40px;
 }
+.productive{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    text-align: center;
+}
+.h1-title{
+    font-size: 80px;
+    font-weight: bold;
+    color:#4E47FF ;
+
+}
+.title-description{
+    font-size: 20px;
+    font-weight: auto;
+    color:#000000 ;
+}
+.join{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.users{
+    background-color:paleturquoise;
+    border-radius: 20px;
+}
+.card-container{
+    display: flex;
+    gap: 30px;
+}
+.card{
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px black
+}
+.card img{
+    image-orientation: ;
+}
+.card-section{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.card-title{
+    text-align: center;
+}
