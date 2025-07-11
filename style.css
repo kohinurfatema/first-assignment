@@ -131,3 +131,22 @@ nav ul a{
 .email{
     display: block;
 }
+.footer-description{
+    font-size: 16px;
+    color: #8987A1;
+    justify-content: center;
+    display: flex;
+
+    
+}
+    
+    .services{
+    font-size: 16px;
+    color:#8987A1 ;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 10px; 
+    
+
+    
+}
