@@ -151,8 +151,21 @@ nav ul a{
     color:#8987A1 ;
     text-align: center;
     margin-right: 10px;
-    margin-top: 10px; 
+    margin-top: 10px;
+
     
 
     
+}
+div ul li{
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    margin-right: 15px;
+
+}
+div ul li a{
+    text-decoration: none;
+    color: #8987A1;
+    display: flex;
 }
