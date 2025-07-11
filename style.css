@@ -117,3 +117,17 @@ nav ul a{
 .card-title{
     text-align: center;
 }
+.form-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.form-imfo{
+    display: flex;
+    justify-content: center;
+    margin: 80px 90px;
+    border-radius: 20px;
+    box-shadow:black;
+}
+.email{
+    display: block;
+}
