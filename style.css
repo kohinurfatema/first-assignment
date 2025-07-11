@@ -131,6 +131,12 @@ nav ul a{
 .email{
     display: block;
 }
+.footer-title{
+    font-size: 100px;
+    font-weight: bold;
+    color: #4E47FF;
+    text-align: center;
+}
 .footer-description{
     font-size: 16px;
     color: #8987A1;
